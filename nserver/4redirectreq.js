@@ -1,4 +1,4 @@
-//taking user input 
+//redireect request 
 
 const http=require('http');
 const fs=require('fs');
